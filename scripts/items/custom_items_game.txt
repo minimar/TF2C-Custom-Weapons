@@ -13,7 +13,7 @@
 			"item_quality"        "normal"
 			"propername"        "1"
 
-			"item_class"    "tf_weapon_pistol"
+			"item_class"    "tf_weapon_shotgun"
 			"item_slot"        "secondary"
 			"used_by_classes"
 			{
@@ -30,7 +30,6 @@
 
 			"model_world"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
 			"model_player"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
-			"anim_slot"            "item4"
 			"attach_to_hands"    "2"
 			"static_attrs"
 			{
