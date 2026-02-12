@@ -13,7 +13,7 @@
 			"item_quality"        "normal"
 			"propername"        "1"
 
-			"item_class"    "tf_weapon_shotgun"
+			"item_class"    "tf_weapon_pistol"
 			"item_slot"        "secondary"
 			"used_by_classes"
 			{
@@ -28,8 +28,8 @@
 				}
 			}
 
-			"model_player"		"models/weapons/v_models/v_shotgun_soldier.mdl"
-			"model_world"		"models/weapons/w_models/w_shotgun.mdl"
+			"model_world"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
+			"model_player"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
 			"attach_to_hands"    "2"
 			"static_attrs"
 			{
