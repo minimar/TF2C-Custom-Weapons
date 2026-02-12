@@ -1,4 +1,4 @@
-#base "items_game_tf2c.txt"
+#base "items_game.txt"
 
 "items_game"
 {
@@ -17,7 +17,7 @@
 			"item_slot"		"secondary"
 			"used_by_classes"
 			{
-				"scout"	"1"
+				"Scout"	"1"
 			}
 			"attributes"
 			{
