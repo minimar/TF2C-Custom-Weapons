@@ -1,0 +1,44 @@
+#base "items_game.txt"
+
+"custom_items_game"
+{
+	"items"
+	{		
+		"20002" // Soldier Desert Eagle
+        {
+            "name"                "Screamin\' Eagle"
+            "item_name"            "#TF_Weapon_Deagle"
+            "item_type_name"    "#TF_Weapon_PISTOL"
+            "item_description"    "#TF_Weapon_DEAGLE_SOLDIER_Desc"
+            "item_quality"        "normal"
+            "propername"        "1"
+
+            "item_class"    "tf_weapon_pistol"
+            "item_slot"        "secondary"
+            "used_by_classes"
+            {
+                "Soldier"    "1"
+            }
+            "attributes"
+            {
+                "damage bonus"
+                {
+                    "attribute_class"        "mult_dmg"
+                    "value"                    "1.5"
+                }
+            }
+
+            "model_world"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
+            "model_player"        "models/weapons/c_models/c_drg_righteousbison/c_drg_righteousbison.mdl"
+            "anim_slot"            "item4"
+            "attach_to_hands"    "2"
+            "static_attrs"
+            {
+                "min_viewmodel_offset"        "10 0 -10"
+            }
+
+            "image_inventory"        "backpack/weapons/w_models/w_pistol"
+        }
+        
+    }
+}
