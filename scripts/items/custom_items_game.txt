@@ -13,6 +13,11 @@
 			"item_quality"        "normal"
 			"propername"        "1"
 
+			// Buckets.
+			"bucket"			"1"
+			"bucket_position"		"0"
+
+
 			"item_class"    "tf_weapon_revolver"
 			"item_slot"        "secondary"
 			"used_by_classes"
