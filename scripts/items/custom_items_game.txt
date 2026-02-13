@@ -13,12 +13,9 @@
 			"item_quality"        "normal"
 			"propername"        "1"
 
-			// Buckets.
-			"bucket"			"1"
-			"bucket_position"		"0"
 
 
-			"item_class"    "tf_weapon_revolver"
+			"item_class"    "tf_weapon_handgun_scout_secondary"
 			"item_slot"        "secondary"
 			"used_by_classes"
 			{
@@ -30,6 +27,16 @@
 				{
 					"attribute_class"        "mult_dmg"
 					"value"                    "1.5"
+				}
+				"clip size penalty"
+				{
+					"attribute_class"        "mult_clipsize"
+					"value" 							"0.33"
+				}
+				"fire rate penalty"
+				{
+					"attribute_class"         "mult_postfiredelay"
+					"value" 									"0.6"
 				}
 			}
 
