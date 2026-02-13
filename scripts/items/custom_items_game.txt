@@ -13,7 +13,7 @@
 			"item_quality"        "normal"
 			"propername"        "1"
 
-			"item_class"    "tf_weapon_pistol"
+			"item_class"    "tf_weapon_handgun_scout_secondary"
 			"item_slot"        "secondary"
 			"used_by_classes"
 			{
