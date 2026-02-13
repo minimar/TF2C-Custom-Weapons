@@ -46,7 +46,7 @@
 				"maxammo secondary increased"
 				{
 					"attribute_class" 				"mult_maxammo_secondary" 
-					"value"										"0.25"
+					"value"										"1.25"
 				}
 				"headshot is minicrit"
 				{
